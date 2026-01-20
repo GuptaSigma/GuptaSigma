@@ -21,7 +21,7 @@ class SagarGupta:
     def __init__(self):
         self.username = "GuptaSigma"
         self.location = "Mumbai, India 🇮🇳"
-        self.education = "Computer Science Undergraduate 🎓"
+        self. education = "Computer Science Undergraduate 🎓"
         self. interests = ["AI/ML", "Backend Development", "NLP", "Data Science"]
         self.current_focus = "Building ML-powered web applications"
         self.motto = "Focused on practical projects — no fake skills"
@@ -65,7 +65,7 @@ me.say_hi()
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000? style=for-the-badge&logo=flask&logoColor=white)
 
 ### 🤖 AI / Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -76,8 +76,8 @@ me.say_hi()
 ### 🗄️ Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717? style=for-the-badge&logo=github&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B? style=for-the-badge&logo=streamlit&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
@@ -96,7 +96,7 @@ me.say_hi()
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GuptaSigma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=GuptaSigma&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/? user=GuptaSigma&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
@@ -112,7 +112,7 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GuptaSigma&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/? username=GuptaSigma&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -127,7 +127,7 @@ me.say_hi()
 
 ### 🎯 SMART Resume Analyzer
 <a href="https://github.com/GuptaSigma/smart-resume-analyzer">
-<img src="https://github-readme-stats.vercel.app/api/pin/? username=GuptaSigma&repo=smart-resume-analyzer&theme=tokyonight&hide_border=true" alt="Resume Analyzer"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=GuptaSigma&repo=smart-resume-analyzer&theme=tokyonight&hide_border=true" alt="Resume Analyzer"/>
 </a>
 
 **🤖 An intelligent resume screening system powered by Machine Learning**
@@ -216,7 +216,7 @@ graph LR
     E --> G[Backend APIs ⚡]
     E --> H[Data Pipelines 📊]
     
-    style A fill:#ff6b6b,stroke:#333,stroke-width: 2px,color:#fff
+    style A fill:#ff6b6b,stroke:#333,stroke-width:2px,color:#fff
     style E fill:#4ecdc4,stroke:#333,stroke-width:2px,color:#fff
     style B fill:#ffe66d,stroke:#333,stroke-width:2px,color:#333
     style C fill:#ffe66d,stroke:#333,stroke-width:2px,color:#333
@@ -235,7 +235,7 @@ graph LR
 - 🌱 Learning **Advanced NLP** techniques (Transformers 🤗, BERT 📚)
 - 👯 Open to collaborate on **AI/ML projects** 🤝
 - 💬 Ask me about **Python 🐍, Machine Learning 🤖, Flask 🌶️, NLP 📝**
-- 📫 Reach me at: **sagargupta585845@gmail.com** 📧
+- 📫 Reach me at:  **sagargupta585845@gmail.com** 📧
 - 🌐 Visit my **[Portfolio](https://sagar-gupta-portfolio-vhkwfkmny4zfgbn268mkgq.streamlit. app/)** 🚀
 
 ---
@@ -243,11 +243,11 @@ graph LR
 ## 📈 Coding Activity
 
 <div align="center">
-  
-<!--START_SECTION:waka-->
+
+<!--START_SECTION: waka-->
 <!--END_SECTION:waka-->
 
-<img src="https://quotes-github-readme. vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 </div>
 
@@ -257,7 +257,7 @@ graph LR
 
 <div align="center">
 
-<a href="https://sagar-gupta-portfolio-vhkwfkmny4zfgbn268mkgq. streamlit.app/">
+<a href="https://sagar-gupta-portfolio-vhkwfkmny4zfgbn268mkgq.streamlit.app/">
 <img src="https://img.shields.io/badge/🌐_My_Portfolio-Visit_Website-FF5722?style=for-the-badge&logoColor=white&labelColor=000000" alt="Portfolio"/>
 </a>
 
