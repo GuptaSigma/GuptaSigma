@@ -51,7 +51,7 @@ me.say_hi()
 - 🎯 Actively improving **problem-solving skills**
 - 🔬 Experience with **Scikit-learn, NLP, Flask, Streamlit**
 - 🌱 Currently exploring **Deep Learning & Advanced NLP**
-- 🌐 Check out my [**Portfolio Website**](https://sagar-gupta-portfolio-vhkwfkmny4zfgbn268mkgq.streamlit. app/) 🚀
+- 🌐 Check out my [**Portfolio Website**](https://guptasigma.github.io/sagar-portfolio/) 🚀
 
 <br clear="right"/>
 
