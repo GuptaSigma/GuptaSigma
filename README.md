@@ -236,7 +236,7 @@ graph LR
 - 👯 Open to collaborate on **AI/ML projects** 🤝
 - 💬 Ask me about **Python 🐍, Machine Learning 🤖, Flask 🌶️, NLP 📝**
 - 📫 Reach me at:  **sagargupta585845@gmail.com** 📧
-- 🌐 Visit my **[Portfolio](https://sagar-gupta-portfolio-vhkwfkmny4zfgbn268mkgq.streamlit. app/)** 🚀
+- 🌐 Visit my **[Portfolio](https://guptasigma.github.io/sagar-portfolio/)** 🚀
 
 ---
 
