@@ -155,7 +155,7 @@ me.say_hi()
 <div align="center">
 
 [![GitHub Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuptaSigma/smart-resume-analyzer)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Live Demo](https://resume.opeoluwaadeyericlub.tech/)](#)
 
 </div>
 
