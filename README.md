@@ -256,7 +256,7 @@ graph LR
 
 <div align="center">
 
-<a href="https://sagar-gupta-portfolio-vhkwfkmny4zfgbn268mkgq.streamlit.app/">
+<a href="https://guptasigma.github.io/sagar-portfolio/">
 <img src="https://img.shields.io/badge/🌐_My_Portfolio-Visit_Website-FF5722?style=for-the-badge&logoColor=white&labelColor=000000" alt="Portfolio"/>
 </a>
 
