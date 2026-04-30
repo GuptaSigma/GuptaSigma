@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF5722?style=for-the-badge&logoColor=white)](https://sagar-gupta-portfolio-vhkwfkmny4zfgbn268mkgq.streamlit.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF5722?style=for-the-badge&logoColor=white)](https://guptasigma.github.io/sagar-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
 [![Email](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagargupta585845@gmail.com)
 
@@ -25,7 +25,7 @@ class SagarGupta:
         self.interests = ["AI/ML", "Backend Development", "NLP", "Data Science"]
         self.current_focus = "Building ML-powered web applications"
         self.motto = "Focused on practical projects — no fake skills"
-        self.portfolio = "https://sagar-gupta-portfolio-vhkwfkmny4zfgbn268mkgq.streamlit.app/"
+        self.portfolio = "https://guptasigma.github.io/sagar-portfolio/"
     
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together 🚀")
@@ -277,7 +277,7 @@ graph LR
 <table>
 <tr>
 <td align="center" width="200">
-<a href="https://sagar-gupta-portfolio-vhkwfkmny4zfgbn268mkgq.streamlit.app/">
+<a href="https://guptasigma.github.io/sagar-portfolio/">
 <img src="https://img.icons8.com/fluency/96/domain.png" width="60" alt="Portfolio"/>
 <br>
 <sub><b>Portfolio Website</b></sub>
@@ -309,7 +309,7 @@ graph LR
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://sagar-gupta-portfolio-vhkwfkmny4zfgbn268mkgq.streamlit.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://guptasigma.github.io/sagar-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagargupta585845@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuptaSigma)
